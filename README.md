@@ -1,6 +1,6 @@
 ## Info
 
-This project contains python scripts that generate Lichess chess game gifs from input parameters, it can also generate chess images from FEN
+This project contains python scripts that generate Lichess chess game gifs from input parameters, it can also generate chess images from FEN. All scripts contail methods which can be integrated in projects that reqiure chess image generation. methods return string links for gifs and pngs for easily embeding them into files/sharing purposes 
 
 ## Sources
 
